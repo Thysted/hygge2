@@ -1,4 +1,4 @@
-This repository contains code for an assignment focused on creating a Retrieval Augmented Generation (RAG) system by integrating a powerful generative pre-trained transformer language model (LLM) with document retrieval techniques. The goal is to enable the model to generate informative responses by not only relying on its pre-existing knowledge but also augmenting it with relevant information retrieved from external documents.
+This repository contains code for our assignment focused on creating a Retrieval Augmented Generation (RAG) system by integrating a powerful generative pre-trained transformer language model (LLM) with document retrieval techniques. The goal is to enable the model to generate informative responses by not only relying on its pre-existing knowledge but also augmenting it with relevant information retrieved from external documents.
 
 Setup
 We install the necessary libraries This includes LangChain, PyTorch, transformers, and other pacakges for setting up the environment
